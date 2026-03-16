@@ -3,7 +3,7 @@ window.CCFOLIA_DATA = {
     "d4g8hsljt": {
       "id": "d4g8hsljt",
       "name": "霧島 虎之助",
-      "assetId": "char-d4g8hsljt-1773650868560",
+      "assetId": "char-d4g8hsljt-1773660405548",
       "defaultColor": "#888888",
       "defaultNameTextColor": "#ffffff",
       "defaultBodyTextColor": "#ffffff",
@@ -41,7 +41,8 @@ window.CCFOLIA_DATA = {
         "▼成功",
         "▼逃走ルール",
         "GM",
-        "system"
+        "system",
+        "System"
       ]
     },
     "76yk0rx2d": {
@@ -95,7 +96,7 @@ window.CCFOLIA_DATA = {
     "k60no0eey": {
       "id": "k60no0eey",
       "name": "白衣の男",
-      "assetId": null,
+      "assetId": "char-k60no0eey-1773661555557",
       "defaultColor": "#888888",
       "defaultNameTextColor": "#ffffff",
       "defaultBodyTextColor": "#ffffff",
@@ -130,11 +131,37 @@ window.CCFOLIA_DATA = {
       "overrideFontSize": "text-xl"
     },
     {
+      "id": "7ubxs0w43",
+      "originalName": "System",
+      "characterId": "ab5p61bu0",
+      "displayName": "",
+      "text": "",
+      "overrideColor": null,
+      "overrideWindowColor": null,
+      "overrideAssetId": null,
+      "customAssetId": null,
+      "backgroundId": null,
+      "backgroundTransition": "fade",
+      "bgmId": null,
+      "bgmConfig": null,
+      "seId": null,
+      "seConfig": {
+        "volume": 1
+      },
+      "windowType": "center",
+      "effect": null,
+      "borderColor": "#ffffff",
+      "overrideTextColor": null,
+      "overrideFontSize": "text-3xl",
+      "isSilent": true,
+      "cutInId": null
+    },
+    {
       "id": "b1dpxyy8c",
       "originalName": "▼",
       "characterId": "ab5p61bu0",
       "displayName": "▼",
-      "text": "クトゥルフ神話TRPG<br>　　<br>「ねむるアクアリウム」",
+      "text": "<br><br>クトゥルフ神話TRPG<br>　　<br>「ねむるアクアリウム」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -150,7 +177,34 @@ window.CCFOLIA_DATA = {
       "windowType": "center",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-xl"
+      "overrideFontSize": "text-xl",
+      "isSilent": false
+    },
+    {
+      "id": "5n0ou4fij",
+      "originalName": "System",
+      "characterId": "ab5p61bu0",
+      "displayName": "",
+      "text": "",
+      "overrideColor": null,
+      "overrideWindowColor": null,
+      "overrideAssetId": null,
+      "customAssetId": null,
+      "backgroundId": null,
+      "backgroundTransition": "fade",
+      "bgmId": null,
+      "bgmConfig": null,
+      "seId": null,
+      "seConfig": {
+        "volume": 1
+      },
+      "windowType": "center",
+      "effect": null,
+      "borderColor": "#ffffff",
+      "overrideTextColor": null,
+      "overrideFontSize": "text-3xl",
+      "isSilent": true,
+      "cutInId": null
     },
     {
       "id": "2bn1b1adi",
@@ -580,9 +634,9 @@ window.CCFOLIA_DATA = {
       "backgroundTransition": "fade",
       "bgmId": null,
       "bgmConfig": null,
-      "seId": null,
+      "seId": "se-zbifwb4za-1773660551763",
       "seConfig": {
-        "volume": 1
+        "volume": 0.3
       },
       "windowType": "center",
       "borderColor": "#ffffff",
@@ -1299,10 +1353,10 @@ window.CCFOLIA_DATA = {
       "seConfig": {
         "volume": 1
       },
-      "windowType": "default",
+      "windowType": "center",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-3xl"
+      "overrideFontSize": "text-xl"
     },
     {
       "id": "u1rufidf4",
@@ -1509,7 +1563,7 @@ window.CCFOLIA_DATA = {
       "windowType": "default",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-3xl"
+      "overrideFontSize": "text-2xl"
     },
     {
       "id": "8g79po03s",
@@ -1884,7 +1938,7 @@ window.CCFOLIA_DATA = {
       "originalName": "高遠 美海",
       "characterId": "jm8vlsfub",
       "displayName": "高遠 美海",
-      "text": "「えっ、ほんと？！　意外」",
+      "text": "　「えっ、ほんと？！　意外」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -2058,10 +2112,10 @@ window.CCFOLIA_DATA = {
       "seConfig": {
         "volume": 1
       },
-      "windowType": "default",
+      "windowType": "center",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-3xl"
+      "overrideFontSize": "text-xl"
     },
     {
       "id": "4xbwf7169",
@@ -2413,7 +2467,7 @@ window.CCFOLIA_DATA = {
       "originalName": "高遠 美海",
       "characterId": "jm8vlsfub",
       "displayName": "高遠 美海",
-      "text": "　「そうだ、さっき休みの日にすることあんまりないって感じだったから、手始めに水族<br>　館めぐりとかしてみるのはどう？<br>　動物園でももちろんいいけど、都心でも結構色々あるよ」",
+      "text": "　「そうだ、さっき休みの日にすることあんまりないって感じだったから、<br>　手始めに水族館めぐりとかしてみるのはどう？<br>　動物園でももちろんいいけど、都心でも結構色々あるよ」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -2429,7 +2483,7 @@ window.CCFOLIA_DATA = {
       "windowType": "default",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-xl"
+      "overrideFontSize": "text-2xl"
     },
     {
       "id": "kcrt9mmj9",
@@ -3287,7 +3341,7 @@ window.CCFOLIA_DATA = {
       "originalName": "高遠 美海",
       "characterId": "jm8vlsfub",
       "displayName": "高遠 美海",
-      "text": "sCCB&lt;=55 【幸運】 (1D100&lt;=55) ＞ 68 ＞ 失敗",
+      "text": "　sCCB&lt;=55 【幸運】 (1D100&lt;=55) ＞ 68 ＞ 失敗",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -3494,7 +3548,7 @@ window.CCFOLIA_DATA = {
       "originalName": "高遠 美海",
       "characterId": "jm8vlsfub",
       "displayName": "高遠 美海",
-      "text": " 「すごい迫力だねえ……」",
+      "text": "　 「すごい迫力だねえ……」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -4621,7 +4675,7 @@ window.CCFOLIA_DATA = {
       "originalName": "霧島　虎之助",
       "characterId": "d4g8hsljt",
       "displayName": "霧島　虎之助",
-      "text": "とジンベエザメを降り仰ぐ<br>火もついていない煙草を、携帯灰皿に折り入れた/",
+      "text": "とジンベエザメを降り仰ぐ<br>火もついていない煙草を、携帯灰皿に折り入れた",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -4959,7 +5013,7 @@ window.CCFOLIA_DATA = {
       "windowType": "default",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-3xl"
+      "overrideFontSize": "text-2xl"
     },
     {
       "id": "o3ilcs55e",
@@ -5028,14 +5082,14 @@ window.CCFOLIA_DATA = {
       "windowType": "default",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-3xl"
+      "overrideFontSize": "text-2xl"
     },
     {
       "id": "rxzktchk2",
       "originalName": "▼成功",
       "characterId": "ab5p61bu0",
       "displayName": "▼",
-      "text": "すぐ傍で影が揺れる。<br>そちらを向いたあなたは、それをガラスに反射する自分の姿と一瞬だけ見間違えた。<br><br>影の正体は美海だった。<br>水槽の向こう側で、彼女が見知らぬ白衣の男と喋っている。<br><br>真剣な眼差しを向け、懸命に言葉を発しているように見えるが、その内容までは聞こえない。<br>よく見ようと水槽に近づくことで、その姿が揺らめいていることに気づくだろう。<br>どうやらそれは実体のないホログラム映像だったらしく、すぐに泡に紛れて消えてしまった。/",
+      "text": "すぐ傍で影が揺れる。<br>そちらを向いたあなたは、それをガラスに反射する自分の姿と一瞬だけ見間違えた。<br><br>影の正体は美海だった。<br>水槽の向こう側で、彼女が見知らぬ白衣の男と喋っている。<br><br>真剣な眼差しを向け、懸命に言葉を発しているように見えるが、その内容までは聞こえない。<br>よく見ようと水槽に近づくことで、その姿が揺らめいていることに気づくだろう。<br>どうやらそれは実体のないホログラム映像だったらしく、すぐに泡に紛れて消えてしまった。",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -5259,6 +5313,32 @@ window.CCFOLIA_DATA = {
       "borderColor": "#ffffff",
       "overrideTextColor": null,
       "overrideFontSize": "text-xl"
+    },
+    {
+      "id": "cwjv6dc54",
+      "originalName": "System",
+      "characterId": "ab5p61bu0",
+      "displayName": "",
+      "text": "",
+      "overrideColor": null,
+      "overrideWindowColor": null,
+      "overrideAssetId": null,
+      "customAssetId": null,
+      "backgroundId": null,
+      "backgroundTransition": "fade",
+      "bgmId": null,
+      "bgmConfig": null,
+      "seId": null,
+      "seConfig": {
+        "volume": 1
+      },
+      "windowType": "center",
+      "effect": null,
+      "borderColor": "#ffffff",
+      "overrideTextColor": null,
+      "overrideFontSize": "text-3xl",
+      "isSilent": true,
+      "cutInId": null
     },
     {
       "id": "rqn60tjby",
@@ -5573,7 +5653,7 @@ window.CCFOLIA_DATA = {
       "backgroundTransition": "fade",
       "bgmId": null,
       "bgmConfig": null,
-      "seId": null,
+      "seId": "se-mw6wabzzu-1773651272902",
       "seConfig": {
         "volume": 1
       },
@@ -6472,7 +6552,9 @@ window.CCFOLIA_DATA = {
       "backgroundId": null,
       "backgroundTransition": "fade",
       "bgmId": "audio-1773653192289",
-      "bgmConfig": null,
+      "bgmConfig": {
+        "volume": 0.3
+      },
       "seId": null,
       "seConfig": {
         "volume": 1
@@ -6989,6 +7071,32 @@ window.CCFOLIA_DATA = {
       "overrideFontSize": "text-xl"
     },
     {
+      "id": "3sh8eq7o8",
+      "originalName": "System",
+      "characterId": "ab5p61bu0",
+      "displayName": "",
+      "text": "",
+      "overrideColor": null,
+      "overrideWindowColor": null,
+      "overrideAssetId": null,
+      "customAssetId": null,
+      "backgroundId": "image-1773651075575",
+      "backgroundTransition": "fade",
+      "bgmId": null,
+      "bgmConfig": null,
+      "seId": null,
+      "seConfig": {
+        "volume": 1
+      },
+      "windowType": "center",
+      "effect": null,
+      "borderColor": "#ffffff",
+      "overrideTextColor": null,
+      "overrideFontSize": "text-xl",
+      "isSilent": true,
+      "cutInId": null
+    },
+    {
       "id": "fvog6z8vj",
       "originalName": "▼",
       "characterId": "ab5p61bu0",
@@ -7016,7 +7124,7 @@ window.CCFOLIA_DATA = {
       "originalName": "白衣の男",
       "characterId": "k60no0eey",
       "displayName": "白衣の男",
-      "text": "「おはようございます、体調はいかがですか？」",
+      "text": "　「おはようございます、体調はいかがですか？」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -7062,7 +7170,7 @@ window.CCFOLIA_DATA = {
       "originalName": "白衣の男",
       "characterId": "k60no0eey",
       "displayName": "白衣の男",
-      "text": "「特に問題はなさそうですね。ご無事で何よりです」",
+      "text": "　「特に問題はなさそうですね。ご無事で何よりです」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -7085,7 +7193,7 @@ window.CCFOLIA_DATA = {
       "originalName": "白衣の男",
       "characterId": "k60no0eey",
       "displayName": "白衣の男",
-      "text": "「実は高遠さんが貴方を起こすのに協力してくださったんです」",
+      "text": "　「実は高遠さんが貴方を起こすのに協力してくださったんです」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -7108,7 +7216,7 @@ window.CCFOLIA_DATA = {
       "originalName": "白衣の男",
       "characterId": "k60no0eey",
       "displayName": "白衣の男",
-      "text": "「どうやら『夢のクリスタライザー』のせいであなたが昏睡状態になってしまったようで」",
+      "text": "　「どうやら『夢のクリスタライザー』のせいであなたが昏睡状態になって<br>　しまったようで」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -7131,7 +7239,7 @@ window.CCFOLIA_DATA = {
       "originalName": "白衣の男",
       "characterId": "k60no0eey",
       "displayName": "白衣の男",
-      "text": "「ああ、一部始終は見ていましたから説明は結構ですよ」",
+      "text": "　「ああ、一部始終は見ていましたから説明は結構ですよ」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -7154,7 +7262,7 @@ window.CCFOLIA_DATA = {
       "originalName": "白衣の男",
       "characterId": "k60no0eey",
       "displayName": "白衣の男",
-      "text": "「それじゃあ、あとはお二人でご自由に」",
+      "text": "　「それじゃあ、あとはお二人でご自由に」",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -7361,7 +7469,7 @@ window.CCFOLIA_DATA = {
       "originalName": "霧島　虎之助",
       "characterId": "d4g8hsljt",
       "displayName": "霧島　虎之助",
-      "text": "「うるせえ……助けて」2話依頼の救援要請",
+      "text": "「うるせえ……助けて」2話以来の救援要請",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -7860,7 +7968,7 @@ window.CCFOLIA_DATA = {
       "windowType": "default",
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-3xl"
+      "overrideFontSize": "text-2xl"
     },
     {
       "id": "fva8arlej",
@@ -7899,7 +8007,7 @@ window.CCFOLIA_DATA = {
       "backgroundTransition": "fade",
       "bgmId": null,
       "bgmConfig": null,
-      "seId": null,
+      "seId": "se-lk67ese3q-1773661989312",
       "seConfig": {
         "volume": 1
       },
@@ -8047,6 +8155,32 @@ window.CCFOLIA_DATA = {
       "overrideFontSize": "text-xl"
     },
     {
+      "id": "nnom8qj92",
+      "originalName": "System",
+      "characterId": "ab5p61bu0",
+      "displayName": "",
+      "text": "",
+      "overrideColor": null,
+      "overrideWindowColor": null,
+      "overrideAssetId": null,
+      "customAssetId": null,
+      "backgroundId": null,
+      "backgroundTransition": "fade",
+      "bgmId": null,
+      "bgmConfig": null,
+      "seId": null,
+      "seConfig": {
+        "volume": 1
+      },
+      "windowType": "center",
+      "effect": null,
+      "borderColor": "#ffffff",
+      "overrideTextColor": null,
+      "overrideFontSize": "text-xl",
+      "isSilent": true,
+      "cutInId": null
+    },
+    {
       "id": "uqvh71e8l",
       "originalName": "▼",
       "characterId": "ab5p61bu0",
@@ -8097,7 +8231,7 @@ window.CCFOLIA_DATA = {
       "originalName": "▼",
       "characterId": "ab5p61bu0",
       "displayName": "▼",
-      "text": "クトゥルフ神話TRPG<br>　　<br>「ねむるアクアリウム」<br>　　　　<br>　　　　　　　　　<br>エンドA<br>",
+      "text": "クトゥルフ神話TRPG<br>　　<br>「ねむるアクアリウム」<br>　　　　　　　　　　<br>エンドA<br>",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -8169,7 +8303,7 @@ window.CCFOLIA_DATA = {
       "originalName": "System",
       "characterId": "ab5p61bu0",
       "displayName": "CREDIT",
-      "text": "▼SOUNDS<br>効果音ラボ　https://soundeffect-lab.info/<br>On-Jin ～音人～　https://on-jin.com/<br>Canva　https://www.canva.com/<br><br>▼PHOTOS<br>Canva　https://www.canva.com/<br>",
+      "text": "▼SOUNDS<br>効果音ラボ　https://soundeffect-lab.info/<br>On-Jin ～音人～　https://on-jin.com/<br>Canva　https://www.canva.com/<br><br>▼PHOTOS & IMAGES<br>Canva　https://www.canva.com/<br>",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -8195,7 +8329,7 @@ window.CCFOLIA_DATA = {
       "originalName": "System",
       "characterId": "ab5p61bu0",
       "displayName": "CREDIT",
-      "text": "▼PL/PC<br>あん / 霧島 虎之助<br><br>▼KP/KPC<br>あまのま / 高遠 美海",
+      "text": "▼PL/PC<br>杏 / 霧島 虎之助<br><br>▼KP/KPC<br>あまのま / 高遠 美海",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -8219,9 +8353,9 @@ window.CCFOLIA_DATA = {
     {
       "id": "7m7n6kyp6",
       "originalName": "System",
-      "characterId": null,
+      "characterId": "ab5p61bu0",
       "displayName": "",
-      "text": "New Line",
+      "text": "",
       "overrideColor": null,
       "overrideWindowColor": null,
       "overrideAssetId": null,
@@ -8234,11 +8368,11 @@ window.CCFOLIA_DATA = {
       "seConfig": {
         "volume": 1
       },
-      "windowType": "default",
+      "windowType": "center",
       "effect": null,
       "borderColor": "#ffffff",
       "overrideTextColor": null,
-      "overrideFontSize": "text-3xl",
+      "overrideFontSize": "text-xl",
       "isSilent": true,
       "cutInId": null
     }
@@ -8340,12 +8474,48 @@ window.CCFOLIA_DATA = {
     "image-1773653690994": {
       "type": "image",
       "url": "assets/image-1773653690994.png"
+    },
+    "cover-1773659975539": {
+      "type": "image",
+      "url": "assets/cover-1773659975539.png"
+    },
+    "cover-1773660017494": {
+      "type": "image",
+      "url": "assets/cover-1773660017494.png"
+    },
+    "char-d4g8hsljt-1773660405548": {
+      "type": "image",
+      "url": "assets/char-d4g8hsljt-1773660405548.png"
+    },
+    "se-zbifwb4za-1773660551763": {
+      "type": "audio",
+      "url": "assets/se-zbifwb4za-1773660551763.mp3"
+    },
+    "char-k60no0eey-1773661555557": {
+      "type": "image",
+      "url": "assets/char-k60no0eey-1773661555557.png"
+    },
+    "se-lk67ese3q-1773661989312": {
+      "type": "audio",
+      "url": "assets/se-lk67ese3q-1773661989312.mp3"
+    },
+    "se-nfi8yw8k6-1773662507249": {
+      "type": "audio",
+      "url": "assets/se-nfi8yw8k6-1773662507249.mp3"
+    },
+    "se-nfi8yw8k6-1773662523990": {
+      "type": "audio",
+      "url": "assets/se-nfi8yw8k6-1773662523990.mp3"
+    },
+    "se-nfi8yw8k6-1773662530707": {
+      "type": "audio",
+      "url": "assets/se-nfi8yw8k6-1773662530707.mp3"
     }
   },
   "playbackSpeed": 1,
   "projectId": "k5krydr4v",
-  "projectTitle": "サバサビねむリウム",
-  "coverImageId": null,
+  "projectTitle": "202503 ねむるアクアリウム",
+  "coverImageId": "cover-1773660017494",
   "uiConfig": {
     "position": "bottom-right",
     "bgColor": "rgba(17, 24, 39, 0.8)",
